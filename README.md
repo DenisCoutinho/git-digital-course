@@ -3,4 +3,4 @@
 ## Gravando mudanças no repositório
 
 * Uso do comando restore
-* Comando git push
+* Comando git push (remoto)
